@@ -1,0 +1,20 @@
+{
+  "name": "ejercicios-js-openbootcamp",
+  "version": "1.0.0",
+  "description": "Ejercicios realizados en el curso basico de JS de Openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ejercicio1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHA-Arg/Ejercicios-de-JS-OpenBootcamp-.git"
+  },
+  "author": "Sebastian H. Amaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHA-Arg/Ejercicios-de-JS-OpenBootcamp-/issues"
+  },
+  "homepage": "https://github.com/SHA-Arg/Ejercicios-de-JS-OpenBootcamp-#readme"
+}
